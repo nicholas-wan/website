@@ -9,3 +9,9 @@
   background-color:black;
   color:white;
 }
+.bgimg{
+  opacity:0.1 ;
+}
+.description{
+  opacity:1 !important;
+}
